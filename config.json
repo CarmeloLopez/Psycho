@@ -1,0 +1,29 @@
+{
+"entrada": [
+{
+"puerto": 8080,
+"protocolo": "vless",
+"configuración": {
+"clientes": [
+{
+"id": "d2cb8181-233c-4d18-9972-8a1b04db0044",
+"nivel": 0
+}
+],
+"descifrado": "ninguno"
+},
+"configuración del flujo": {
+"red": "ws",
+"configuración de ws": {
+"ruta": "/LittlePsyCh0"
+}
+}
+}
+],
+"salida": [
+{
+"protocolo": "libertad",
+"configuración": {}
+}
+]
+}
